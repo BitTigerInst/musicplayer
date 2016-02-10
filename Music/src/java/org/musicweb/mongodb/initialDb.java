@@ -3,12 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mongodb;
+package org.musicweb.mongodb;
+import com.mongodb.Mongo;
+import com.mongodb.DB;
+import com.mongodb.WriteResult;
 
 /**
  *
  * @author aznable
  */
-public class dbOperation {
-    
+public class initialDb {
+    static void initialize(){
+        
+    }
 }

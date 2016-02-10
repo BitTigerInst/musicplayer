@@ -4,8 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/src/java/mongodb/initialDb.java</file>
+            <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/web/index.xhtml</file>
+            <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/src/java/hibernate.cfg.xml</file>
             <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/src/java/org/musicweb/mongodb/initialDb.java</file>
+            <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/src/java/org/musicweb/mongodb/dbOperation.java</file>
+            <file>file:/C:/Users/aznable/Documents/GitHub/musicplayer/Music/src/java/org/musicweb/mongodb/DatabaseServlet.java</file>
         </group>
     </open-files>
 </project-private>
